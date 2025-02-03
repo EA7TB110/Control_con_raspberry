@@ -8,3 +8,7 @@ Las especificaciones:
 y 4 entradas analogicas
 
 Del mismo tamaño que la raspberry.
+
+El control se realizara mediante un programa de Python.
+
+Podra interactuar con Telegram, reciviendo ordenes y mandando alarmas
