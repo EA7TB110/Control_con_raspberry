@@ -1,0 +1,5 @@
+Se basa en el integrado MCP23S08.
+Controldo por el bus SPI.
+Cuatro entradas y cuator salidas.
+Las entradas tienen un tnnsistor de Buffer y seran activas a nivel bajo (GND)
+LAs salidas, se realizan mediante reles, por lo que las salidas son libes de potencial.
