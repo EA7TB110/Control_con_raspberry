@@ -1,0 +1,3 @@
+El sitema se va a utilizar un ADS1220.
+Controlado con el bus SPI
+Tiene cuatro entradas analogicas, para Ajustar el nivel entrada, tiene un divisor de tension, y un puente para ajustar la tension de entrada a la que soporta el convertidor.
